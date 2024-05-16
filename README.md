@@ -1,8 +1,8 @@
 # Group
-Victor Marisa R207764L HAI
-Anesu Rirwa R204432D HAI
-Tariro Gwandiwa R206546B HAI
-Perfect-Princess Makuwerere R204448U HAI
+1. Victor Marisa R207764L HAI
+2. Anesu Rirwa R204432D HAI
+3. Tariro Gwandiwa R206546B HAI
+4. Perfect-Princess Makuwerere R204448U HAI
 
 ## Amazon Fashion Recommendation System
 
