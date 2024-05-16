@@ -1,4 +1,10 @@
-# Amazon Fashion Recommendation System
+# Group
+Victor Marisa R207764L HAI
+Anesu Rirwa R204432D HAI
+Tariro Gwandiwa R206546B HAI
+Perfect-Princess Makuwerere R204448U HAI
+
+## Amazon Fashion Recommendation System
 
 Online shopping can save time for both the buyer and retailer by reducing phone calls about availability, specifications, hours of operation or other information that can be easily found on company and product pages. There are a lot of reasons why customers today prefer shopping online:
 
